@@ -1,0 +1,36 @@
+#welcome-banner {
+    background-color: rgb(171, 174, 175);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#welcome-banner a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    border-bottom: 2px solid black;
+    font-size: 18px;
+}
+
+#color-select ul {
+    list-style-type: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+    display: inline-block;
+    margin-top: .25rem;
+}
+
+#color-select ul a {
+    text-decoration: none;
+    color: black;
+    
+    font-size: 18px;
+}
+
+#color-select ul a li {
+    margin: .5rem .5rem;
+    padding: .1rem .1rem;
+    text-align:center;
+    /* border-bottom: 2px solid black; */
+}
